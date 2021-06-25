@@ -34,6 +34,12 @@
 - Tufte's Principles
 - Altair
 - Simpson's Paradox, Correlation and Causation
+- Preprocessing:
+  - Cleaning
+  - Transformation
+    - Categorical, Numerical
+- Feature Selection
+  - Correlation Matrix
 
 ### Day 3
 - Outliers:
