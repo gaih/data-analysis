@@ -9,29 +9,47 @@
 # Syllabus:
 
 ### Day 1
--	What is `OOP`?
--	Why and where `OOP` is used?
--	General and simple classes
--	Accessing and creating variables within classes
--	`Inheritance`
--	`Multiple Inheritance`
--	`super` function
--	`Decorators`
--	`Custom Decorator` Design
--	`__Dunder__` functions
--	Custom `Card` Class
+-	What is `Data`?
+-	Data types and their storage
+-	Create simple and custom Dataset
+-	Find Datasets (Kaggle, Google Datasets, UCI, KDNuggets etc.)
+-	Load Datasets
+-	Simple and General `Numpy` & `Pandas` & `Matplotlib` (on custom datasets)
+-	Manipulating the Datasets
+-	Saving the Datasets
+
 
 ### Day 2
--	`*args **kwargs`
--	`__magic__ Methods`
--	Introduction to `Overloading Operators`
--	`Overloading Comparison Operators`
--	`Abstract Classes` and `Methods`
--	`Encapsulation`
--	`Polymorphism`
+- Data Visualization:
+  - [X] Scatterplot
+  - [X] Line Plot
+  - [X] Heatmap for Correlation
+  - [X] Joint Plot
+  - [X] Bar Chart
+  - [X] Grouped Bar Charts
+  - [X] Violin Plot
+  - [X] Categorical Box Plot
+  - [X] Swarm Plot
+  - [X] Point Plot
+- Tufte's Principles
+- Altair
+- Simpson's Paradox, Correlation and Causation
 
 ### Day 3
-`Custom OOP Based Project from scratch, which is ready to use a brand new library!`
+- Outliers:
+  - What causes the outliers:
+    - [X] Impact of the outlier
+    - [X] Methods to identify outliers
+  - Detection of outliers:
+    - [X] Scatter Plot
+    - [X] Box-Plot
+    - [X] Z-Score (Variance)
+  - Outlier Treatment
+    - [X] Discarding the Outliers
+    - [X] Transforming and Binning Values
+    - [X] Imputing
+- Visualization Project
+- Model Training and Testing
 
 # Certification
 The workshop is certified.
